@@ -1,7 +1,6 @@
-# Probléme du mix electrisue pour un bouquet energétique renouvelable.
+# Probléme du mix electrique pour un bouquet energétique renouvelable.
 
 ## Introduction
-Introduction
 
 La production d'énergie électrique à partir de sources renouvelables est devenue un enjeu crucial face aux défis climatiques actuels. 
 Les réseaux de distribution d'électricité intègrent désormais de nombreuses sources d'énergie renouvelable, 
